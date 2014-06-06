@@ -1,5 +1,5 @@
 {
-  "name": "mongoose-timestamps",
+  "name": "mongoose-timestamps.js",
   "version": "0.0.0",
   "description": "Updates \"updated_at\" field on each save",
   "main": "index.js",

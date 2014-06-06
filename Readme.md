@@ -8,13 +8,13 @@ Middleware to update timestamps
 
 ## Install
 
-    npm install mongoose-timestamps
+    npm install mongoose-timestamps.js
 
 ## Usage
 
 
     var mongoose = require('mongoose');
-    var updateTimestamps = require('mongoose-timestamps');
+    var updateTimestamps = require('mongoose-timestamps.js');
 
     var schema = mongoose.Schema({
       created_at: {type: Date, default: new Date()},
